@@ -1,6 +1,6 @@
 FROM php:7.1.9
 
-ARG GIT_URL=https://github.com/isucon/isucon7-qualify.git
+ARG GIT_URL=https://github.com/masayanakajima/isucon7-code.git
 
 RUN \
   apt-get update && \
